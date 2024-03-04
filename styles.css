@@ -1,0 +1,18 @@
+body {
+  position: relative;
+}
+
+#canvas {
+  border: 1px solid;
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, 10%);
+}
+
+h2 {
+  top: 50%;
+  right: 50%;
+  position: absolute;
+  transform: translate(50%, -70%);
+}
